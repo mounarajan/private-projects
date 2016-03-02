@@ -1,0 +1,72 @@
+jeana.gingery@workiva.com - Email is valid\n
+jeana.g@workiva.com - Email is not valid\n
+gingery.jeana@workiva.com - Email is not valid\n
+gingery.j@workiva.com - Email is not valid\n
+jeanagingery@workiva.com - Email is not valid\n
+jeana@workiva.com - Email is not valid\n
+jgingery@workiva.com - Email is not valid\n
+jeanag@workiva.com - Email is not valid\n
+
+
+
+
+kim.bruyn@davenport.edu - Email is valid\n
+kim.b@davenport.edu - Email is not valid\n
+bruyn.kim@davenport.edu - Email is not valid\n
+bruyn.k@davenport.edu - Email is not valid\n
+kimbruyn@davenport.edu - Email is not valid\n
+kim@davenport.edu - Email is not valid\n
+kbruyn@davenport.edu - Email is valid\n
+kimb@davenport.edu - Email is not valid\n
+
+
+
+
+jennifer.martinson@www2.emersonprocess.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jennifer.m@www2.emersonprocess.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+martinson.jennifer@www2.emersonprocess.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+martinson.j@www2.emersonprocess.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jennifermartinson@www2.emersonprocess.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jennifer@www2.emersonprocess.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jmartinson@www2.emersonprocess.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jenniferm@www2.emersonprocess.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+kylie.wahl@spectraenergy.com - Email is not valid\n
+kylie.w@spectraenergy.com - Email is not valid\n
+wahl.kylie@spectraenergy.com - Email is not valid\n
+wahl.k@spectraenergy.com - Email is not valid\n
+kyliewahl@spectraenergy.com - Email is not valid\n
+kylie@spectraenergy.com - Email is not valid\n
+kwahl@spectraenergy.com - Email is not valid\n
+kyliew@spectraenergy.com - Email is not valid\n
+
+
+
+
+julie.barton@zynga.com - Email is not valid\n
+julie.b@zynga.com - Email is not valid\n
+barton.julie@zynga.com - Email is not valid\n
+barton.j@zynga.com - Email is not valid\n
+juliebarton@zynga.com - Email is not valid\n
+julie@zynga.com - Email is not valid\n
+jbarton@zynga.com - Email is not valid\n
+julieb@zynga.com - Email is not valid\n
+
+
+
+
+julie.peters@pwc.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+julie.p@pwc.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+peters.julie@pwc.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+peters.j@pwc.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+juliepeters@pwc.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+julie@pwc.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+jpeters@pwc.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+juliep@pwc.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+
+
+
+
