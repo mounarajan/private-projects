@@ -1268,3 +1268,77 @@ katharinef@valero.com - Email is not valid\nThere are no SMTP servers accepting 
 
 
 
+jeana.gingery@workiva.com - Email is valid
+jeana.g@workiva.com - Email is not valid
+gingery.jeana@workiva.com - Email is not valid
+gingery.j@workiva.com - Email is not valid
+jeanagingery@workiva.com - Email is not valid
+jeana@workiva.com - Email is not valid
+jgingery@workiva.com - Email is not valid
+jeanag@workiva.com - Email is not valid
+
+
+
+
+kim.bruyn@davenport.edu - Email is valid
+kim.b@davenport.edu - Email is not valid
+bruyn.kim@davenport.edu - Email is not valid
+bruyn.k@davenport.edu - Email is not valid
+kimbruyn@davenport.edu - Email is not valid
+kim@davenport.edu - Email is not valid
+kbruyn@davenport.edu - Email is valid
+kimb@davenport.edu - Email is not valid
+
+
+
+
+jeana.gingery@workiva.com - Email is valid
+jeana.g@workiva.com - Email is not valid
+gingery.jeana@workiva.com - Email is not valid
+gingery.j@workiva.com - Email is not valid
+jeanagingery@workiva.com - Email is not valid
+jeana@workiva.com - Email is not valid
+jgingery@workiva.com - Email is not valid
+jeanag@workiva.com - Email is not valid
+
+
+
+
+kim.bruyn@davenport.edu - Email is valid
+kim.b@davenport.edu - Email is not valid
+bruyn.kim@davenport.edu - Email is not valid
+bruyn.k@davenport.edu - Email is not valid
+kimbruyn@davenport.edu - Email is not valid
+kim@davenport.edu - Email is not valid
+kbruyn@davenport.edu - Email is valid
+kimb@davenport.edu - Email is not valid
+
+
+
+
+jennifer.martinson@www2.emersonprocess.com - Email is not validThere are no SMTP servers accepting connections4\n
+jeana.gingery@workiva.com - Email is valid
+jeana.g@workiva.com - Email is not valid
+gingery.jeana@workiva.com - Email is not valid
+gingery.j@workiva.com - Email is not valid
+jeanagingery@workiva.com - Email is not valid
+jeana@workiva.com - Email is not valid
+jgingery@workiva.com - Email is not valid
+jeanag@workiva.com - Email is not valid
+
+
+
+
+kim.bruyn@davenport.edu - Email is valid
+kim.b@davenport.edu - Email is not valid
+bruyn.kim@davenport.edu - Email is not valid
+bruyn.k@davenport.edu - Email is not valid
+kimbruyn@davenport.edu - Email is not valid
+kim@davenport.edu - Email is not valid
+kbruyn@davenport.edu - Email is valid
+kimb@davenport.edu - Email is not valid
+
+
+
+
+katie.digregorio@youtube.com - Email is not valid

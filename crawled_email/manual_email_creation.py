@@ -74,7 +74,11 @@ class Out(Libraries):
 			cell4_l = (cell4.lower())
 			format = urllib.parse.quote(cell2)
 			#print (format)
-			url = "https://www.google.co.in/search?q={0}".format(format)
+			if len(format) > 0:
+				
+				url = "https://www.google.co.in/search?q={0}".format(format)
+			else:
+				url = "https://www.google.co.in/search?q=sssssssssssssssss"
 			#url = urllib.parse.quote(url)
 			print (url)
 			output.links_extract(url,cell3_l,cell4_l)
