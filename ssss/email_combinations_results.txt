@@ -70,3 +70,1201 @@ juliep@pwc.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
 
 
 
+leslie.vasquez@lennoxinternational.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+leslie.v@lennoxinternational.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vasquez.leslie@lennoxinternational.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vasquez.l@lennoxinternational.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+leslievasquez@lennoxinternational.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+leslie@lennoxinternational.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lvasquez@lennoxinternational.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lesliev@lennoxinternational.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+vanguard.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+meredith.murray@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+meredith.m@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+murray.meredith@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+murray.m@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+meredithmurray@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+meredith@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+mmurray@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+meredithm@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+emily.davignon@worldlearning.org - Email is valid\n
+emily.d@worldlearning.org - Email is not valid\n
+davignon.emily@worldlearning.org - Email is valid\n
+davignon.e@worldlearning.org - Email is not valid\n
+emilydavignon@worldlearning.org - Email is valid\n
+emily@worldlearning.org - Email is not valid\n
+edavignon@worldlearning.org - Email is not valid\n
+emilyd@worldlearning.org - Email is not valid\n
+
+
+
+
+coxmediagroup.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+jennifer.neal@kpmg.com - Email is not valid\n
+jennifer.n@kpmg.com - Email is not valid\n
+neal.jennifer@kpmg.com - Email is not valid\n
+neal.j@kpmg.com - Email is not valid\n
+jenniferneal@kpmg.com - Email is not valid\n
+jennifer@kpmg.com - Email is not valid\n
+jneal@kpmg.com - Email is not valid\n
+jennifern@kpmg.com - Email is not valid\n
+
+
+
+
+samuel.firmin@ochsner.org - Email is valid\n
+samuel.f@ochsner.org - Email is not valid\n
+firmin.samuel@ochsner.org - Email is not valid\n
+firmin.s@ochsner.org - Email is not valid\n
+samuelfirmin@ochsner.org - Email is not valid\n
+samuel@ochsner.org - Email is not valid\n
+sfirmin@ochsner.org - Email is not valid\n
+samuelf@ochsner.org - Email is not valid\n
+
+
+
+
+groupon.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+martin.crichlow,m.s.@bp.com - There is a syntactical error in the email address\n2\n
+martin.c@bp.com - Email is not valid\n
+crichlow,m.s..martin@bp.com - There is a syntactical error in the email address\n2\n
+crichlow,m.s..m@bp.com - There is a syntactical error in the email address\n2\n
+martincrichlow,m.s.@bp.com - There is a syntactical error in the email address\n2\n
+martin@bp.com - Email is valid\n
+mcrichlow,m.s.@bp.com - There is a syntactical error in the email address\n2\n
+martinc@bp.com - Email is not valid\n
+
+
+
+
+brittany.billon@oxy.com - Email is not valid\n
+brittany.b@oxy.com - Email is not valid\n
+billon.brittany@oxy.com - Email is not valid\n
+billon.b@oxy.com - Email is not valid\n
+brittanybillon@oxy.com - Email is not valid\n
+brittany@oxy.com - Email is not valid\n
+bbillon@oxy.com - Email is not valid\n
+brittanyb@oxy.com - Email is not valid\n
+
+
+
+
+jodi.stuchlik@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jodi.s@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+stuchlik.jodi@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+stuchlik.j@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jodistuchlik@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jodi@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jstuchlik@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jodis@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+dionne.smith@bakerhughes.com - Email is not valid\n
+dionne.s@bakerhughes.com - Email is not valid\n
+smith.dionne@bakerhughes.com - Email is not valid\n
+smith.d@bakerhughes.com - Email is not valid\n
+dionnesmith@bakerhughes.com - Email is not valid\n
+dionne@bakerhughes.com - Email is not valid\n
+dsmith@bakerhughes.com - Email is not valid\n
+dionnes@bakerhughes.com - Email is not valid\n
+
+
+
+
+slb.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+nshmba.org - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+hubert.telesford@chronicle.com - Email is valid\n
+hubert.t@chronicle.com - Email is not valid\n
+telesford.hubert@chronicle.com - Email is not valid\n
+telesford.h@chronicle.com - Email is not valid\n
+huberttelesford@chronicle.com - Email is not valid\n
+hubert@chronicle.com - Email is not valid\n
+htelesford@chronicle.com - Email is valid\n
+hubertt@chronicle.com - Email is not valid\n
+
+
+
+
+kraftheinzcompany.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+vicki.crockett@northropgrumman.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vicki.c@northropgrumman.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+crockett.vicki@northropgrumman.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+crockett.v@northropgrumman.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vickicrockett@northropgrumman.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vicki@northropgrumman.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vcrockett@northropgrumman.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vickic@northropgrumman.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+lynn.nguyen@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lynn.n@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+nguyen.lynn@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+nguyen.l@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lynnnguyen@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lynn@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lnguyen@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lynnn@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+leslie.peltason@morningstar.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+leslie.p@morningstar.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+peltason.leslie@morningstar.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+peltason.l@morningstar.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lesliepeltason@morningstar.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+leslie@morningstar.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lpeltason@morningstar.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lesliep@morningstar.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+jin.yoo@zebra.com - Email is valid\n
+jin.y@zebra.com - Email is not valid\n
+yoo.jin@zebra.com - Email is valid\n
+yoo.j@zebra.com - Email is not valid\n
+jinyoo@zebra.com - Email is not valid\n
+jin@zebra.com - Email is valid\n
+jyoo@zebra.com - Email is valid\n
+jiny@zebra.com - Email is not valid\n
+
+
+
+
+ginny.packer@kraftfoodsgroup.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+ginny.p@kraftfoodsgroup.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+packer.ginny@kraftfoodsgroup.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+packer.g@kraftfoodsgroup.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+ginnypacker@kraftfoodsgroup.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+ginny@kraftfoodsgroup.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+gpacker@kraftfoodsgroup.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+ginnyp@kraftfoodsgroup.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+
+
+
+
+lisa.johnston@baxter.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lisa.j@baxter.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+johnston.lisa@baxter.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+johnston.l@baxter.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lisajohnston@baxter.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lisa@baxter.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ljohnston@baxter.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lisaj@baxter.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+shaughn.coyer@kelloggcompany.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+shaughn.c@kelloggcompany.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+coyer.shaughn@kelloggcompany.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+coyer.s@kelloggcompany.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+shaughncoyer@kelloggcompany.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+shaughn@kelloggcompany.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+scoyer@kelloggcompany.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+shaughnc@kelloggcompany.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+kellyn.beltran@ey.com - Email is valid\n
+kellyn.b@ey.com - Email is not valid\n
+beltran.kellyn@ey.com - Email is not valid\n
+beltran.k@ey.com - Email is not valid\n
+kellynbeltran@ey.com - Email is not valid\n
+kellyn@ey.com - Email is not valid\n
+kbeltran@ey.com - Email is not valid\n
+kellynb@ey.com - Email is not valid\n
+
+
+
+
+kelsea.nicholson@gm.com - Email is valid\n
+kelsea.n@gm.com - Email is not valid\n
+nicholson.kelsea@gm.com - Email is not valid\n
+nicholson.k@gm.com - Email is not valid\n
+kelseanicholson@gm.com - Email is not valid\n
+kelsea@gm.com - Email is not valid\n
+knicholson@gm.com - Email is not valid\n
+kelsean@gm.com - Email is not valid\n
+
+
+
+
+connie.beair@rsu.edu - Email is not valid\n
+connie.b@rsu.edu - Email is not valid\n
+beair.connie@rsu.edu - Email is not valid\n
+beair.c@rsu.edu - Email is not valid\n
+conniebeair@rsu.edu - Email is not valid\n
+connie@rsu.edu - Email is not valid\n
+cbeair@rsu.edu - Email is not valid\n
+connieb@rsu.edu - Email is not valid\n
+
+
+
+
+jessica.schinaman@53.com - Email is not valid\n
+jessica.s@53.com - Email is not valid\n
+schinaman.jessica@53.com - Email is not valid\n
+schinaman.j@53.com - Email is not valid\n
+jessicaschinaman@53.com - Email is not valid\n
+jessica@53.com - Email is not valid\n
+jschinaman@53.com - Email is not valid\n
+jessicas@53.com - Email is not valid\n
+
+
+
+
+darbi.alstrom@conocophillips.com - Email is not valid\n
+darbi.a@conocophillips.com - Email is not valid\n
+alstrom.darbi@conocophillips.com - Email is not valid\n
+alstrom.d@conocophillips.com - Email is not valid\n
+darbialstrom@conocophillips.com - Email is not valid\n
+darbi@conocophillips.com - Email is not valid\n
+dalstrom@conocophillips.com - Email is not valid\n
+darbia@conocophillips.com - Email is not valid\n
+
+
+
+
+steven.hansen@spacedynamics.org - Email is not valid\n
+steven.h@spacedynamics.org - Email is not valid\n
+hansen.steven@spacedynamics.org - Email is not valid\n
+hansen.s@spacedynamics.org - Email is not valid\n
+stevenhansen@spacedynamics.org - Email is not valid\n
+steven@spacedynamics.org - Email is not valid\n
+shansen@spacedynamics.org - Email is not valid\n
+stevenh@spacedynamics.org - Email is not valid\n
+
+
+
+
+patrick.manning@acis.co.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+patrick.m@acis.co.in - Email is not valid\n
+manning.patrick@acis.co.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+manning.p@acis.co.in - Email is not valid\n
+patrickmanning@acis.co.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+patrick@acis.co.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+pmanning@acis.co.in - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+patrickm@acis.co.in - Email is not valid\n
+
+
+
+
+stefani.steinway@equifax.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+stefani.s@equifax.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+steinway.stefani@equifax.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+steinway.s@equifax.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+stefanisteinway@equifax.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+stefani@equifax.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ssteinway@equifax.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+stefanis@equifax.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+casey.keenan@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+casey.k@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+keenan.casey@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+keenan.c@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+caseykeenan@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+casey@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ckeenan@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+caseyk@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+monsanto.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+mmc.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+thomas.hoogheem@investopedia.com - Email is not valid\n
+thomas.h@investopedia.com - Email is not valid\n
+hoogheem.thomas@investopedia.com - Email is not valid\n
+hoogheem.t@investopedia.com - Email is not valid\n
+thomashoogheem@investopedia.com - Email is not valid\n
+thomas@investopedia.com - Email is not valid\n
+thoogheem@investopedia.com - Email is not valid\n
+thomash@investopedia.com - Email is not valid\n
+
+
+
+
+madeline.sills@netsuite.com - Email is not valid\n
+madeline.s@netsuite.com - Email is not valid\n
+sills.madeline@netsuite.com - Email is not valid\n
+sills.m@netsuite.com - Email is not valid\n
+madelinesills@netsuite.com - Email is not valid\n
+madeline@netsuite.com - Email is not valid\n
+msills@netsuite.com - Email is not valid\n
+madelines@netsuite.com - Email is not valid\n
+
+
+
+
+covance.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+eastman.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+onsemi.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+janine.rush-byers@micron.com - Email is not valid\n
+janine.r@micron.com - Email is not valid\n
+rush-byers.janine@micron.com - Email is not valid\n
+rush-byers.j@micron.com - Email is not valid\n
+janinerush-byers@micron.com - Email is not valid\n
+janine@micron.com - Email is not valid\n
+jrush-byers@micron.com - Email is not valid\n
+janiner@micron.com - Email is not valid\n
+
+
+
+
+patty.nelson@esic.nic.in - Email is not valid\n
+patty.n@esic.nic.in - Email is not valid\n
+nelson.patty@esic.nic.in - Email is not valid\n
+nelson.p@esic.nic.in - Email is not valid\n
+pattynelson@esic.nic.in - Email is not valid\n
+patty@esic.nic.in - Email is not valid\n
+pnelson@esic.nic.in - Email is not valid\n
+pattyn@esic.nic.in - Email is not valid\n
+
+
+
+
+stephanie.wilcox@pearson.co.in - Email is not valid\n
+stephanie.w@pearson.co.in - Email is not valid\n
+wilcox.stephanie@pearson.co.in - Email is not valid\n
+wilcox.s@pearson.co.in - Email is not valid\n
+stephaniewilcox@pearson.co.in - Email is not valid\n
+stephanie@pearson.co.in - Email is not valid\n
+swilcox@pearson.co.in - Email is not valid\n
+stephaniew@pearson.co.in - Email is not valid\n
+
+
+
+
+honeywell.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+karen.garrison@precast.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+karen.g@precast.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+garrison.karen@precast.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+garrison.k@precast.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+karengarrison@precast.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+karen@precast.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kgarrison@precast.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kareng@precast.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+rachel.mosca,phr@nationwide.com - There is a syntactical error in the email address\n2\n
+rachel.m@nationwide.com - Email is not valid\n
+mosca,phr.rachel@nationwide.com - There is a syntactical error in the email address\n2\n
+mosca,phr.r@nationwide.com - There is a syntactical error in the email address\n2\n
+rachelmosca,phr@nationwide.com - There is a syntactical error in the email address\n2\n
+rachel@nationwide.com - Email is not valid\n
+rmosca,phr@nationwide.com - There is a syntactical error in the email address\n2\n
+rachelm@nationwide.com - Email is not valid\n
+
+
+
+
+lb.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+karen.frey@joann.com - Email is valid\n
+karen.f@joann.com - Email is not valid\n
+frey.karen@joann.com - Email is not valid\n
+frey.k@joann.com - Email is not valid\n
+karenfrey@joann.com - Email is not valid\n
+karen@joann.com - Email is not valid\n
+kfrey@joann.com - Email is not valid\n
+karenf@joann.com - Email is not valid\n
+
+
+
+
+rachel.ligman@eaton.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rachel.l@eaton.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ligman.rachel@eaton.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ligman.r@eaton.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rachelligman@eaton.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rachel@eaton.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rligman@eaton.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rachell@eaton.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+jessica.freshour@huntington.com - Email is valid\n
+jessica.f@huntington.com - Email is not valid\n
+freshour.jessica@huntington.com - Email is not valid\n
+freshour.j@huntington.com - Email is not valid\n
+jessicafreshour@huntington.com - Email is not valid\n
+jessica@huntington.com - Email is not valid\n
+jfreshour@huntington.com - Email is not valid\n
+jessicaf@huntington.com - Email is not valid\n
+
+
+
+
+deere.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+jose.camberos@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jose.c@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+camberos.jose@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+camberos.j@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+josecamberos@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jose@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+jcamberos@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+josec@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+katie.bishop@travelers.com - Email is valid\n
+katie.b@travelers.com - Email is not valid\n
+bishop.katie@travelers.com - Email is not valid\n
+bishop.k@travelers.com - Email is not valid\n
+katiebishop@travelers.com - Email is not valid\n
+katie@travelers.com - Email is not valid\n
+kbishop@travelers.com - Email is not valid\n
+katieb@travelers.com - Email is not valid\n
+
+
+
+
+honeywell.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+denise.debouvre@chrysler.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+denise.d@chrysler.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+debouvre.denise@chrysler.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+debouvre.d@chrysler.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+denisedebouvre@chrysler.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+denise@chrysler.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+ddebouvre@chrysler.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+denised@chrysler.com - Email is valid\n
+
+
+
+
+rose.roth@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rose.r@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+roth.rose@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+roth.r@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+roseroth@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rose@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rroth@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+roser@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+carl.taylor@mbusa.com - Email is not valid\n
+carl.t@mbusa.com - Email is not valid\n
+taylor.carl@mbusa.com - Email is not valid\n
+taylor.c@mbusa.com - Email is not valid\n
+carltaylor@mbusa.com - Email is not valid\n
+carl@mbusa.com - Email is not valid\n
+ctaylor@mbusa.com - Email is not valid\n
+carlt@mbusa.com - Email is not valid\n
+
+
+
+
+sheri.kelly@facebook.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+sheri.k@facebook.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+kelly.sheri@facebook.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+kelly.s@facebook.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+sherikelly@facebook.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+sheri@facebook.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+skelly@facebook.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+sherik@facebook.com - Email is not valid\nAll SMTP servers are misbehaving\n5\n
+
+
+
+
+kiewit.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+tera.edmunds@rockwellcollins.com - Email is valid\n
+tera.e@rockwellcollins.com - Email is not valid\n
+edmunds.tera@rockwellcollins.com - Email is not valid\n
+edmunds.t@rockwellcollins.com - Email is not valid\n
+teraedmunds@rockwellcollins.com - Email is not valid\n
+tera@rockwellcollins.com - Email is not valid\n
+tedmunds@rockwellcollins.com - Email is not valid\n
+terae@rockwellcollins.com - Email is not valid\n
+
+
+
+
+nora.towne@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+nora.t@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+towne.nora@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+towne.n@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+noratowne@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+nora@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ntowne@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+norat@fcausllc.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+dow.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+trina.medley@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+trina.m@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+medley.trina@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+medley.t@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+trinamedley@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+trina@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tmedley@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+trinam@boeing.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+grainger.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+reagan.craven@abbvie.com - Email is valid\n
+reagan.c@abbvie.com - Email is not valid\n
+craven.reagan@abbvie.com - Email is not valid\n
+craven.r@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+reagancraven@abbvie.com - Email is not valid\n
+reagan@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+rcraven@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+reaganc@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+allstate.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+kristin.smith@bonton.com - Email is valid\n
+kristin.s@bonton.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+smith.kristin@bonton.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+smith.k@bonton.com - Email is valid\n
+kristinsmith@bonton.com - Email is valid\n
+kristin@bonton.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ksmith@bonton.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kristins@bonton.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+kelly.bronson@sunedison.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kelly.b@sunedison.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+bronson.kelly@sunedison.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+bronson.k@sunedison.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kellybronson@sunedison.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kelly@sunedison.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kbronson@sunedison.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kellyb@sunedison.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+christopher.bickel@dish.com - Email is valid\n
+christopher.b@dish.com - Email is not valid\n
+bickel.christopher@dish.com - Email is not valid\n
+bickel.c@dish.com - Email is not valid\n
+christopherbickel@dish.com - Email is not valid\n
+christopher@dish.com - Email is not valid\n
+cbickel@dish.com - Email is not valid\n
+christopherb@dish.com - Email is not valid\n
+
+
+
+
+shawn.wylin@gm.com - Email is not valid\n
+shawn.w@gm.com - Email is not valid\n
+wylin.shawn@gm.com - Email is not valid\n
+wylin.s@gm.com - Email is not valid\n
+shawnwylin@gm.com - Email is not valid\n
+shawn@gm.com - Email is not valid\n
+swylin@gm.com - Email is not valid\n
+shawnw@gm.com - Email is not valid\n
+
+
+
+
+kylie.wahl@spectraenergy.com - Email is not valid\n
+kylie.w@spectraenergy.com - Email is not valid\n
+wahl.kylie@spectraenergy.com - Email is not valid\n
+wahl.k@spectraenergy.com - Email is not valid\n
+kyliewahl@spectraenergy.com - Email is not valid\n
+kylie@spectraenergy.com - Email is not valid\n
+kwahl@spectraenergy.com - Email is not valid\n
+kyliew@spectraenergy.com - Email is not valid\n
+
+
+
+
+marathonoil.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+teksystems.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+mike.goldstein@abbvie.com - Email is not valid\n
+mike.g@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+goldstein.mike@abbvie.com - Email is not valid\n
+goldstein.m@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+mikegoldstein@abbvie.com - Email is not valid\n
+mike@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+mgoldstein@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+mikeg@abbvie.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+lockheedmartin.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+jenna.ponzi@bakerhughes.com - Email is not valid\n
+jenna.p@bakerhughes.com - Email is not valid\n
+ponzi.jenna@bakerhughes.com - Email is not valid\n
+ponzi.j@bakerhughes.com - Email is not valid\n
+jennaponzi@bakerhughes.com - Email is not valid\n
+jenna@bakerhughes.com - Email is not valid\n
+jponzi@bakerhughes.com - Email is not valid\n
+jennap@bakerhughes.com - Email is not valid\n
+
+
+
+
+marshall.hartman@anadarko.com - Email is not valid\n
+marshall.h@anadarko.com - Email is not valid\n
+hartman.marshall@anadarko.com - Email is not valid\n
+hartman.m@anadarko.com - Email is not valid\n
+marshallhartman@anadarko.com - Email is not valid\n
+marshall@anadarko.com - Email is not valid\n
+mhartman@anadarko.com - Email is not valid\n
+marshallh@anadarko.com - Email is not valid\n
+
+
+
+
+tran.vuong@in.airliquide.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tran.v@in.airliquide.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vuong.tran@in.airliquide.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+vuong.t@in.airliquide.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tranvuong@in.airliquide.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tran@in.airliquide.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tvuong@in.airliquide.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tranv@in.airliquide.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+rhonda.summerbell@ufcu.org - Email is not valid\n
+rhonda.s@ufcu.org - Email is not valid\n
+summerbell.rhonda@ufcu.org - Email is not valid\n
+summerbell.r@ufcu.org - Email is not valid\n
+rhondasummerbell@ufcu.org - Email is not valid\n
+rhonda@ufcu.org - Email is not valid\n
+rsummerbell@ufcu.org - Email is valid\n
+rhondas@ufcu.org - Email is not valid\n
+
+
+
+
+ericsson.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+slb.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+cokecce.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+monsanto.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+hollye.odle@supplementalhealthcare.com - Email is not valid\n
+hollye.o@supplementalhealthcare.com - Email is not valid\n
+odle.hollye@supplementalhealthcare.com - Email is not valid\n
+odle.h@supplementalhealthcare.com - Email is not valid\n
+hollyeodle@supplementalhealthcare.com - Email is not valid\n
+hollye@supplementalhealthcare.com - Email is not valid\n
+hodle@supplementalhealthcare.com - Email is not valid\n
+hollyeo@supplementalhealthcare.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+monsanto.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+monsanto.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+kohls.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+melanie.huston,mba,phr@timken.com - There is a syntactical error in the email address\n2\n
+melanie.h@timken.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+huston,mba,phr.melanie@timken.com - There is a syntactical error in the email address\n2\n
+huston,mba,phr.m@timken.com - There is a syntactical error in the email address\n2\n
+melaniehuston,mba,phr@timken.com - There is a syntactical error in the email address\n2\n
+melanie@timken.com - Email is not valid\n
+mhuston,mba,phr@timken.com - There is a syntactical error in the email address\n2\n
+melanieh@timken.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+tina.buntin@johnsonelectric.com - Email is not valid\n
+tina.b@johnsonelectric.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+buntin.tina@johnsonelectric.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+buntin.t@johnsonelectric.com - Email is not valid\n
+tinabuntin@johnsonelectric.com - Email is not valid\n
+tina@johnsonelectric.com - Email is not valid\n
+tbuntin@johnsonelectric.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tinab@johnsonelectric.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+kevin.mcnamara@mpowerfinancing.com - Email is not valid\n
+kevin.m@mpowerfinancing.com - Email is not valid\n
+mcnamara.kevin@mpowerfinancing.com - Email is not valid\n
+mcnamara.k@mpowerfinancing.com - Email is not valid\n
+kevinmcnamara@mpowerfinancing.com - Email is not valid\n
+kevin@mpowerfinancing.com - Email is valid\n
+kmcnamara@mpowerfinancing.com - Email is not valid\n
+kevinm@mpowerfinancing.com - Email is not valid\n
+
+
+
+
+sundt.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+dow.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+lara.grice@fcagroup.com - Email is not valid\n
+lara.g@fcagroup.com - Email is not valid\n
+grice.lara@fcagroup.com - Email is not valid\n
+grice.l@fcagroup.com - Email is not valid\n
+laragrice@fcagroup.com - Email is not valid\n
+lara@fcagroup.com - Email is not valid\n
+lgrice@fcagroup.com - Email is not valid\n
+larag@fcagroup.com - Email is not valid\n
+
+
+
+
+rachel.annwood@gm.com - Email is not valid\n
+rachel.a@gm.com - Email is not valid\n
+annwood.rachel@gm.com - Email is not valid\n
+annwood.r@gm.com - Email is not valid\n
+rachelannwood@gm.com - Email is not valid\n
+rachel@gm.com - Email is not valid\n
+rannwood@gm.com - Email is not valid\n
+rachela@gm.com - Email is not valid\n
+
+
+
+
+jennifer.neal@kpmg.com - Email is not valid\n
+jennifer.n@kpmg.com - Email is not valid\n
+neal.jennifer@kpmg.com - Email is not valid\n
+neal.j@kpmg.com - Email is not valid\n
+jenniferneal@kpmg.com - Email is not valid\n
+jennifer@kpmg.com - Email is not valid\n
+jneal@kpmg.com - Email is not valid\n
+jennifern@kpmg.com - Email is not valid\n
+
+
+
+
+fred.ettinger@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+fred.e@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ettinger.fred@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ettinger.f@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+fredettinger@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+fred@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+fettinger@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+frede@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+marilyn.lee@bakerhughes.com - Email is not valid\n
+marilyn.l@bakerhughes.com - Email is not valid\n
+lee.marilyn@bakerhughes.com - Email is not valid\n
+lee.m@bakerhughes.com - Email is not valid\n
+marilynlee@bakerhughes.com - Email is not valid\n
+marilyn@bakerhughes.com - Email is not valid\n
+mlee@bakerhughes.com - Email is not valid\n
+marilynl@bakerhughes.com - Email is not valid\n
+
+
+
+
+kohls.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+christina.onori@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+christina.o@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+onori.christina@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+onori.c@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+christinaonori@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+christina@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+conori@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+christinao@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+diane.abel@spectraenergy.com - Email is not valid\n
+diane.a@spectraenergy.com - Email is not valid\n
+abel.diane@spectraenergy.com - Email is not valid\n
+abel.d@spectraenergy.com - Email is not valid\n
+dianeabel@spectraenergy.com - Email is not valid\n
+diane@spectraenergy.com - Email is not valid\n
+dabel@spectraenergy.com - Email is not valid\n
+dianea@spectraenergy.com - Email is not valid\n
+
+
+
+
+fred.ettinger@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+fred.e@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ettinger.fred@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+ettinger.f@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+fredettinger@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+fred@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+fettinger@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+frede@motorola.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+rich.mcgill@cbsinteractive.com - Email is not valid\n
+rich.m@cbsinteractive.com - Email is not valid\n
+mcgill.rich@cbsinteractive.com - Email is not valid\n
+mcgill.r@cbsinteractive.com - Email is not valid\n
+richmcgill@cbsinteractive.com - Email is not valid\n
+rich@cbsinteractive.com - Email is not valid\n
+rmcgill@cbsinteractive.com - Email is not valid\n
+richm@cbsinteractive.com - Email is not valid\n
+
+
+
+
+lauren.hiegel@bankofamerica.com - Email is not valid\n
+lauren.h@bankofamerica.com - Email is not valid\n
+hiegel.lauren@bankofamerica.com - Email is not valid\n
+hiegel.l@bankofamerica.com - Email is not valid\n
+laurenhiegel@bankofamerica.com - Email is not valid\n
+lauren@bankofamerica.com - Email is not valid\n
+lhiegel@bankofamerica.com - Email is not valid\n
+laurenh@bankofamerica.com - Email is not valid\n
+
+
+
+
+lockheedmartin.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+tish.mann@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tish.m@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+mann.tish@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+mann.t@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tishmann@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tish@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tmann@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+tishm@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+ericsson.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+intelsecurity.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+slb.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+lindsey.(pugh)rickett@valero.com - There is a syntactical error in the email address\n2\n
+lindsey.(@valero.com - There is a syntactical error in the email address\n2\n
+(pugh)rickett.lindsey@valero.com - There is a syntactical error in the email address\n2\n
+(pugh)rickett.l@valero.com - There is a syntactical error in the email address\n2\n
+lindsey(pugh)rickett@valero.com - There is a syntactical error in the email address\n2\n
+lindsey@valero.com - Email is not valid\n
+l(pugh)rickett@valero.com - There is a syntactical error in the email address\n2\n
+lindsey(@valero.com - There is a syntactical error in the email address\n2\n
+
+
+
+
+angelica.salom@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+angelica.s@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+salom.angelica@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+salom.a@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+angelicasalom@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+angelica@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+asalom@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+angelicas@en.wikipedia.org - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+courtney.hawkes,phr@phillips66.com - There is a syntactical error in the email address\n2\n
+courtney.h@phillips66.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+hawkes,phr.courtney@phillips66.com - There is a syntactical error in the email address\n2\n
+hawkes,phr.c@phillips66.com - There is a syntactical error in the email address\n2\n
+courtneyhawkes,phr@phillips66.com - There is a syntactical error in the email address\n2\n
+courtney@phillips66.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+chawkes,phr@phillips66.com - There is a syntactical error in the email address\n2\n
+courtneyh@phillips66.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+morgan.dobson@anadarko.com - Email is not valid\n
+morgan.d@anadarko.com - Email is not valid\n
+dobson.morgan@anadarko.com - Email is not valid\n
+dobson.m@anadarko.com - Email is not valid\n
+morgandobson@anadarko.com - Email is not valid\n
+morgan@anadarko.com - Email is not valid\n
+mdobson@anadarko.com - Email is not valid\n
+morgand@anadarko.com - Email is not valid\n
+
+
+
+
+tsocorp.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+shannon.freeze-flory@ti.com - Email is not valid\n
+shannon.f@ti.com - Email is not valid\n
+freeze-flory.shannon@ti.com - Email is not valid\n
+freeze-flory.s@ti.com - Email is not valid\n
+shannonfreeze-flory@ti.com - Email is not valid\n
+shannon@ti.com - Email is not valid\n
+sfreeze-flory@ti.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+shannonf@ti.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+janelle.rendon@anadarko.com - Email is not valid\n
+janelle.r@anadarko.com - Email is not valid\n
+rendon.janelle@anadarko.com - Email is not valid\n
+rendon.j@anadarko.com - Email is not valid\n
+janellerendon@anadarko.com - Email is not valid\n
+janelle@anadarko.com - Email is not valid\n
+jrendon@anadarko.com - Email is not valid\n
+janeller@anadarko.com - Email is not valid\n
+
+
+
+
+dorine.serrano@halliburton.com - Email is not valid\n
+dorine.s@halliburton.com - Email is not valid\n
+serrano.dorine@halliburton.com - Email is not valid\n
+serrano.d@halliburton.com - Email is not valid\n
+dorineserrano@halliburton.com - Email is not valid\n
+dorine@halliburton.com - Email is not valid\n
+dserrano@halliburton.com - Email is not valid\n
+dorines@halliburton.com - Email is not valid\n
+
+
+
+
+rodney.wetterskog@ti.com - Email is not valid\n
+rodney.w@ti.com - Email is not valid\n
+wetterskog.rodney@ti.com - Email is not valid\n
+wetterskog.r@ti.com - Email is not valid\n
+rodneywetterskog@ti.com - Email is not valid\n
+rodney@ti.com - Email is not valid\n
+rwetterskog@ti.com - Email is not valid\n
+rodneyw@ti.com - Email is not valid\n
+
+
+
+
+megan.hughes@oxy.com - Email is not valid\n
+megan.h@oxy.com - Email is not valid\n
+hughes.megan@oxy.com - Email is not valid\n
+hughes.m@oxy.com - Email is not valid\n
+meganhughes@oxy.com - Email is not valid\n
+megan@oxy.com - Email is not valid\n
+mhughes@oxy.com - Email is not valid\n
+meganh@oxy.com - Email is not valid\n
+
+
+
+
+karen.baird@trinityindustries.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+karen.b@trinityindustries.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+baird.karen@trinityindustries.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+baird.k@trinityindustries.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+karenbaird@trinityindustries.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+karen@trinityindustries.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kbaird@trinityindustries.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+karenb@trinityindustries.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+lisa.hegner@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lisa.h@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+hegner.lisa@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+hegner.l@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lisahegner@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lisa@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lhegner@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+lisah@dell.co.in - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
+khymberly.booth@bp.com - Email is valid\n
+khymberly.b@bp.com - Email is not valid\n
+booth.khymberly@bp.com - Email is not valid\n
+booth.k@bp.com - Email is not valid\n
+khymberlybooth@bp.com - Email is not valid\n
+khymberly@bp.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+kbooth@bp.com - Email is not valid\n
+khymberlyb@bp.com - Email is not valid\n
+
+
+
+
+schreiner.edu - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+katharine.farmer,phr@valero.com - There is a syntactical error in the email address\n2\n
+katharine.f@valero.com - Email is not valid\n
+farmer,phr.katharine@valero.com - There is a syntactical error in the email address\n2\n
+farmer,phr.k@valero.com - There is a syntactical error in the email address\n2\n
+katharinefarmer,phr@valero.com - There is a syntactical error in the email address\n2\n
+katharine@valero.com - Email is not valid\n
+kfarmer,phr@valero.com - There is a syntactical error in the email address\n2\n
+katharinef@valero.com - Email is not valid\nThere are no SMTP servers accepting connections\n4\n
+
+
+
+
