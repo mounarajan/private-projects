@@ -1,11 +1,8 @@
-#import urllib.request
+import urllib.request
 import os
 import re
 import time
-# -*- coding: utf-8 -*-
 import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
 import csv
 import xlrd
 
@@ -79,8 +76,8 @@ class Out(Libraries):
 
 
 	def links_extract(self,url,cell3_l,cell4_l):
-		f1 = open('a-to-z-links1.txt','w')
-		f2 = open('main-urls1.txt','w')
+		f1 = open('a-to-z-links.txt','w')
+		f2 = open('main-urls.txt','w')
 		url = re.sub(r"[\s\n]*","",url)
 		url = re.sub(r'\&','\&',url)
 		url = re.sub(r'\+','\+',url)
@@ -101,7 +98,7 @@ class Out(Libraries):
 
 	def main_data_to_csv(self,links,cell3_l,cell4_l):
 		#This page will extract data what we need
-		f3 = open("test_check1.csv", 'at')
+		f3 = open("test_check.csv", 'at')
 		writer = csv.writer(f3)
 		data_store = []
 		for link in links:
@@ -121,50 +118,56 @@ class Out(Libraries):
 					if re.search(r'(?mis)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',email):
 						email = re.sub(r'nr\@context\".*','',email)
 						email = re.sub(r'\?.*','',email)
+						email = re.sub(r'\".*','',email)
+						email = re.sub(r'\'.*','',email)
+						email = re.sub(r'(.*)\s.*',r'\1',email)
 						data_store.append(email)
-					else:
-						data_store.append('')
-				elif re.search(r'(?mis)mailto\:([^\"]*)\"',data):
+				if re.search(r'(?mis)mailto\:([^\"]*)\"',data):
 					email = re.findall(r'(?mis)mailto\:([^\"]*)\"',data)[0]
 					if re.search(r'(?mis)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',email):
 						email = re.sub(r'nr\@context\".*','',email)
 						email = re.sub(r'\?.*','',email)
+						email = re.sub(r'\".*','',email)
+						email = re.sub(r'\'.*','',email)
+						email = re.sub(r'(.*)\s.*',r'\1',email)
 						data_store.append(email)
-					else:
-						data_store.append('')
-				elif re.search(r'(?mis)mailto\:([^\"]*)\"',data):
+				if re.search(r'(?mis)mailto\:([^\"]*)\"',data):
 					email = re.findall(r'(?mis)mailto\:([^\"]*)\"',data)
 					for mail in email:
 						if re.search(r'(?mis)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',mail):
 							mail = re.sub(r'nr\@context\".*','',mail)
 							mail = re.sub(r'\?.*','',mail)
+							mail = re.sub(r'\".*','',mail)
+							mail = re.sub(r'\'.*','',mail)
+							mail = re.sub(r'(.*)\s.*',r'\1',mail)
 							data_store.append(mail)
-						else:
-							data_store.append('')
-				elif re.search(r'(?ms)mailto\:([^\"]*)\"',data):
+				if re.search(r'(?ms)mailto\:([^\"]*)\"',data):
 					must = re.findall(r'(?ms)mailto\:([^\"]*)\"',data)
 					for mail in must:
 						if re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',mail):
 							mail = re.sub(r'nr\@context\".*','',mail)
 							mail = re.sub(r'\?.*','',mail)
+							mail = re.sub(r'\".*','',mail)
+							mail = re.sub(r'\'.*','',mail)
+							mail = re.sub(r'(.*)\s.*',r'\1',mail)
 							data_store.append(mail)
-						else:
-							data_store.append('')
-				elif re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',data):
+				if re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',data):
 					email = re.findall(r'(?ms)([\w\_\-\.\+]+@[^\.]*[\.]*\w+(?:[\w\.\+]*))',data)[0]
 					email = re.sub(r'nr\@context\".*','',email)
+					email = re.sub(r'\".*','',email)
+					email = re.sub(r'\'.*','',email)
+					email = re.sub(r'(.*)\s.*',r'\1',email)
 					data_store.append(email)
-				elif re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',data):
+				if re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',data):
 					ear = re.findall(r'(?ms)([\w\_\-\.\+]+@[^\.]*[\.]*\w+(?:[\w\.\+]*))',data)
 					for mail in ear:
 						if re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',mail):
 							mail = re.sub(r'nr\@context\".*','',mail)
 							mail = re.sub(r'\?.*','',mail)
+							mail = re.sub(r'\".*','',mail)
+							mail = re.sub(r'\'.*','',mail)
+							mail = re.sub(r'(.*)\s.*',r'\1',mail)
 							data_store.append(mail)
-						else:
-							data_store.append('')
-				else:
-					data_store.append('')
 
 
 				
@@ -177,9 +180,9 @@ class Out(Libraries):
 		output.email_check(data_store,cell3_l,cell4_l)
 
 	def email_check(self,data_store,cell3_l,cell4_l):
-		f3 = open("email_crawl_checked_data1.csv", 'at')
-		f4 = open("email_crawl_checked1.csv", 'at')
-		f5 = open("final_data1.txt", 'a')
+		f3 = open("email_crawl_checked_data.csv", 'at')
+		f4 = open("email_crawl_checked.csv", 'at')
+		f5 = open("final_data.txt", 'a')
 		writer = csv.writer(f3)
 		writer1 = csv.writer(f4)
 		final_data = []
@@ -201,21 +204,12 @@ class Out(Libraries):
 					if re.search(r'(?mis){0}'.format(first_name_last_name),data_removed_at):
 						final_data.append(datas)
 						final_data1.append(datas)
-					else:
-						final_data.append(datas)
-						final_data1.append(datas)
 					first_name = "{0}".format(cell3_l)
 					if re.search(r'(?mis){0}'.format(first_name),data_removed_at):
 						final_data.append(datas)
 						final_data1.append(datas)
-					else:
-						final_data.append(datas)
-						final_data1.append(datas)
 					last_name = "{0}".format(cell4_l)
 					if re.search(r'(?mis){0}'.format(last_name),data_removed_at):
-						final_data.append(datas)
-						final_data1.append(datas)
-					else:
 						final_data.append(datas)
 						final_data1.append(datas)
 					first_name_initial = re.sub(r"(.).*",r"\1",cell3_l)
@@ -223,15 +217,9 @@ class Out(Libraries):
 					if re.search(r'(?mis){0}'.format(first_name_initial),data_removed_at_fi):
 						final_data.append(datas)
 						final_data1.append(datas)
-					else:
-						final_data.append(datas)
-						final_data1.append(datas)
 					last_name_initial = re.sub(r"(.).*",r"\1",cell4_l)
 					data_removed_at_li = re.sub(r"(.).*",r"\1",datas)
 					if re.search(r'(?mis){0}'.format(last_name_initial),data_removed_at_li):
-						final_data.append(datas)
-						final_data1.append(datas)
-					else:
 						final_data.append(datas)
 						final_data1.append(datas)
 
@@ -263,4 +251,3 @@ output.excel_iter()
 #output.data_extract()
 #output.dedup_two()
 #output.main_data_to_csv()
-
