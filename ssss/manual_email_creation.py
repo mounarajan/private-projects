@@ -109,6 +109,7 @@ class Out(Libraries):
 			links = re.sub(r"www\.","",links)
 			print (links)
 			output.email_manual_assign(links,cell3_l,cell4_l)
+		
 
 
 	def email_manual_assign(self,domain_name,cell3_l,cell4_l):
@@ -161,6 +162,7 @@ class Out(Libraries):
 			f1.write ("\n")
 			f1.write ("\n")
 			f1.write ("\n")
+			final_data.append('')
 			pass
 		else:
 
