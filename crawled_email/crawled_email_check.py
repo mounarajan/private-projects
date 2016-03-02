@@ -118,8 +118,6 @@ class Out(Libraries):
 					if re.search(r'(?mis)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',email):
 						email = re.sub(r'nr\@context\".*','',email)
 						email = re.sub(r'\?.*','',email)
-						email = re.sub(r'\".*','',email)
-						email = re.sub(r'\'.*','',email)
 						email = re.sub(r'(.*)\s.*',r'\1',email)
 						data_store.append(email)
 				if re.search(r'(?mis)mailto\:([^\"]*)\"',data):
@@ -127,8 +125,6 @@ class Out(Libraries):
 					if re.search(r'(?mis)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',email):
 						email = re.sub(r'nr\@context\".*','',email)
 						email = re.sub(r'\?.*','',email)
-						email = re.sub(r'\".*','',email)
-						email = re.sub(r'\'.*','',email)
 						email = re.sub(r'(.*)\s.*',r'\1',email)
 						data_store.append(email)
 				if re.search(r'(?mis)mailto\:([^\"]*)\"',data):
@@ -137,8 +133,6 @@ class Out(Libraries):
 						if re.search(r'(?mis)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',mail):
 							mail = re.sub(r'nr\@context\".*','',mail)
 							mail = re.sub(r'\?.*','',mail)
-							mail = re.sub(r'\".*','',mail)
-							mail = re.sub(r'\'.*','',mail)
 							mail = re.sub(r'(.*)\s.*',r'\1',mail)
 							data_store.append(mail)
 				if re.search(r'(?ms)mailto\:([^\"]*)\"',data):
@@ -147,15 +141,12 @@ class Out(Libraries):
 						if re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',mail):
 							mail = re.sub(r'nr\@context\".*','',mail)
 							mail = re.sub(r'\?.*','',mail)
-							mail = re.sub(r'\".*','',mail)
-							mail = re.sub(r'\'.*','',mail)
 							mail = re.sub(r'(.*)\s.*',r'\1',mail)
 							data_store.append(mail)
 				if re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',data):
 					email = re.findall(r'(?ms)([\w\_\-\.\+]+@[^\.]*[\.]*\w+(?:[\w\.\+]*))',data)[0]
 					email = re.sub(r'nr\@context\".*','',email)
-					email = re.sub(r'\".*','',email)
-					email = re.sub(r'\'.*','',email)
+					
 					email = re.sub(r'(.*)\s.*',r'\1',email)
 					data_store.append(email)
 				if re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',data):
@@ -164,8 +155,7 @@ class Out(Libraries):
 						if re.search(r'(?ms)([\w\_\-\.\+]+@[\w\-\_\+]+[\.]+\w+(?:[\w\.\-\_\+]*))',mail):
 							mail = re.sub(r'nr\@context\".*','',mail)
 							mail = re.sub(r'\?.*','',mail)
-							mail = re.sub(r'\".*','',mail)
-							mail = re.sub(r'\'.*','',mail)
+							
 							mail = re.sub(r'(.*)\s.*',r'\1',mail)
 							data_store.append(mail)
 
