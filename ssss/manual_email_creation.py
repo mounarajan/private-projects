@@ -166,7 +166,7 @@ class Out(Libraries):
 			f1.write ("\n")
 			f1.write ("\n")
 			final_data.append('')
-			pass
+			
 		else:
 
 			pipe1 = subprocess.Popen(["perl","./email.pl","{0}".format(first_comb)],stdout=subprocess.PIPE)
@@ -249,12 +249,13 @@ class Out(Libraries):
 			f1.write ("{0} - {1}\n".format(eigth_comb,pipe1))
 			final_data.append("{0} - {1}".format(eigth_comb,pipe1))
 			print(final_data)
-			writer.writerow( (final_data) )	
+			
 
 			f1.write ("\n")
 			f1.write ("\n")
 			f1.write ("\n")
 			f1.write ("\n")
+		writer.writerow( (final_data) )	
 
 		#Excel Iter
 		#book = xlrd.open_workbook("Swoop_Talent_Pool.xls")
