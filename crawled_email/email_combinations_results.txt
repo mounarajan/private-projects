@@ -2127,3 +2127,105 @@ stripesstores.com - Domain Accpets ALL Emails - Seems like problem with SMPT or 
 
 
 
+keri.riley@vmware.com - Email is not valid
+keri.r@vmware.com - Email is not valid
+riley.keri@vmware.com - Email is not valid
+riley.k@vmware.com - Email is not valid
+keririley@vmware.com - Email is not valid
+keri@vmware.com - Email is not valid
+kriley@vmware.com - Email is not valid
+kerir@vmware.com - Email is not valid
+
+
+
+
+kelly.seeker@technip.com - Email is not valid
+kelly.s@technip.com - Email is not valid
+seeker.kelly@technip.com - Email is not valid
+seeker.k@technip.com - Email is not valid
+kellyseeker@technip.com - Email is not valid
+kelly@technip.com - Email is not valid
+kseeker@technip.com - Email is not valid
+kellys@technip.com - Email is not valid
+
+
+
+
+integratedservicesolutions.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+fiona.condon@vmware.com - Email is not valid
+fiona.c@vmware.com - Email is not valid
+condon.fiona@vmware.com - Email is not valid
+condon.f@vmware.com - Email is not valid
+fionacondon@vmware.com - Email is not valid
+fiona@vmware.com - Email is not valid
+fcondon@vmware.com - Email is not valid
+fionac@vmware.com - Email is not valid
+
+
+
+
+joe.richie@drpeppersnapplegroup.com - Email is not validAll SMTP servers are misbehaving5\n
+joe.r@drpeppersnapplegroup.com - Email is not validThere are no SMTP servers accepting connections4\n
+richie.joe@drpeppersnapplegroup.com - Email is not validAll SMTP servers are misbehaving5\n
+richie.j@drpeppersnapplegroup.com - Email is not validThere are no SMTP servers accepting connections4\n
+joerichie@drpeppersnapplegroup.com - Email is not validAll SMTP servers are misbehaving5\n
+joe@drpeppersnapplegroup.com - Email is not validThere are no SMTP servers accepting connections4\n
+jrichie@drpeppersnapplegroup.com - Email is not validThere are no SMTP servers accepting connections4\n
+joer@drpeppersnapplegroup.com - Email is not validThere are no SMTP servers accepting connections4\n
+
+
+
+
+morgan.forman@youtube.com - Email is not valid
+morgan.f@youtube.com - Email is not valid
+forman.morgan@youtube.com - Email is not valid
+forman.m@youtube.com - Email is not valid
+morganforman@youtube.com - Email is not valid
+morgan@youtube.com - Email is not valid
+mforman@youtube.com - Email is not valid
+morganf@youtube.com - Email is not valid
+
+
+
+
+ericsson.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+fujitsu.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+usaa.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+nicole.nguyen@bp.com - Email is not valid
+nicole.n@bp.com - Email is not valid
+nguyen.nicole@bp.com - Email is not valid
+nguyen.n@bp.com - Email is not valid
+nicolenguyen@bp.com - Email is not valid
+nicole@bp.com - Email is not valid
+nnguyen@bp.com - Email is not valid
+nicolen@bp.com - Email is not valid
+
+
+
+
+alexandermannsolutions.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
+shell.com - Domain Accpets ALL Emails - Seems like problem with SMPT or DOMAIN
+
+
+
+
