@@ -2,6 +2,10 @@ import csv
 import re
 import glob
 import codecs
+# -*- coding: utf-8 -*-
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 arra_s = []
 for f1 in glob.glob('email_manual_checked_data.csv'):
             #print f1
@@ -11,10 +15,18 @@ for f1 in glob.glob('email_manual_checked_data.csv'):
         spamreader = csv.reader(csvfile, delimiter=',', quoting=csv.QUOTE_ALL)
         
         for row in spamreader:
+            vv = len(row)
+            print vv
+            if vv == 1:
+                print "ff"
+                row[1].append('j')
+
             if re.search(r'(?mis)email is valid',row[0]):
                 print "yes"
                 row0 = re.sub(r'(?mis)([^\-]*)\-.*',r'\1',row[0])
                 arra_s.append(row0)
+
+
             elif re.search(r'(?mis)email is valid',row[1]):
                 row1 = re.sub(r'(?mis)([^\-]*)\-.*',r'\1',row[1])
                 arra_s.append(row1)
@@ -38,5 +50,20 @@ for f1 in glob.glob('email_manual_checked_data.csv'):
                 arra_s.append(row7)
             else:
                 arra_s.append('')
+            
 
-print len(arra_s)
+print arra_s
+f3 = open("test_data.csv", 'at')
+f1 = open("removed.txt",'a')
+writer = csv.writer(f3,delimiter = ',', lineterminator='\n',quoting=csv.QUOTE_ALL)
+#writer.writerow(self.headers)
+        #count_mis = 0
+for write in arra_s:
+
+    write = re.sub(r'\,','',write)
+    f1.write(write+"\n")
+    print write
+            #count_mis = count_mis + 1
+            #if count_mis > 1:
+    writer.writerow(write)
+print "Completed"
